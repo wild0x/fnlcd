@@ -1,0 +1,8 @@
+nltk
+regex
+scipy
+numpy
+pandas
+sklearn
+Flask
+uwsgi
